@@ -1,6 +1,6 @@
 {
     "name": "Amino 100",
-    "id": "amino-100",
+    "id": "amino_100",
     "chainType": "Live",
     "bootNodes": [
         "/dns/p2p.amino100.alphacarbon.network/tcp/30333/p2p/12D3KooWKBp6UQL9BNLD8JFbbWXK31BnzDUqG52DoaX2PArbvBpw"
@@ -94,4 +94,3 @@
         }
     }
 }
-
